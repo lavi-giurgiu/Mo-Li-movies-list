@@ -1,5 +1,5 @@
 # Mo-Li Movies List
-My first React project based on a movies list from [TMDB](https://www.themoviedb.org/)'s API. React helped me to quickly and easily update a large number of data coming from two different databases – TMDB’s and mine. And also to have a simpler and easier to correct structure of the code structured in components. 
+My first React project based on a movies list from [TMDB](https://www.themoviedb.org/)'s API. React helped me to quickly and easily update a large number of data coming from two different databases – TMDB’s and mine. And also to have a simpler and easier to correct composition of the code structured in components. 
 All types of lists available in the project:
  - the newest popular released movies at the website opening
  - lists of movies sorted by genre
