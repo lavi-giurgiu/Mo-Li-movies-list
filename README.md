@@ -16,8 +16,10 @@ My website provide the possibility of creating user account with an email (even 
 *<sub>*if the user is under 18 years old, all adult content will be blocked. But even if the user is over 18 years old, he can block manually that content by unchecking the Adult Content Box in the user settings tab.*</sub>
 
 ## Challenges and future goals
-Since this was my first significant project in the React library, I encountered a lot of challenges. Among which I had to learn to use ***useState*** and ***useEffect*** correctly and to structure the code into components that are easy to reuse later – an otherwise fascinating feature of React. 
-A big challenge was the use of the large object-type state variable, the variable that stores the data about the displayed movies. This is entirely updated often in the code and I had to reduce the amount of repetitive code by creating functions. But the number of functions created to update the variable seems quite large to me, and in the future I would like to reduce these repetitions even more. This would help me to easily add more details about each movie and make the application more interactive. 
+Since this was my first significant project in the React library, I encountered a lot of challenges. Among which I had to learn to use ***useState*** and ***useEffect*** correctly and to structure the code into components that are easy to reuse later – an otherwise fascinating feature of React.
+
+A big challenge was the use of the large object-type state variable, the variable that stores the data about the displayed movies. This is entirely updated often in the code and I had to reduce the amount of repetitive code by creating functions. But the number of functions created to update the variable seems quite large to me, and in the future I would like to reduce these repetitions even more. This would help me to easily add more details about each movie and make the application more interactive.
+
 In addition, I really want to learn to add more complicated transitions in React.
 
 ## How to access
